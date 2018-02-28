@@ -1,7 +1,4 @@
-## Welcome to GitHub Pages
-
-C# Connect Mycat By Two ways
-
+# C# Connect Mycat By Two ways
 ## first way
  Connect Mycat By  Pomelo.Mycat.dll 
  
