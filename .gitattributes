@@ -61,4 +61,7 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
-* text=auto
+*.js linguist-language=C#
+*.css linguist-language=C#
+*.html linguist-language=C#
+*.cs linguist-language=C#
